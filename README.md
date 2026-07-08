@@ -1,3 +1,9 @@
+<img width="3244" height="2064" alt="aprenderpro6" src="https://github.com/user-attachments/assets/ad525636-9480-42f6-bb39-d5a7c1b24130" />
+<img width="3238" height="2068" alt="aprenderpro5" src="https://github.com/user-attachments/assets/b51b028f-f765-4473-acba-8177f7f8e504" />
+<img width="3244" height="2064" alt="aprenderpro4" src="https://github.com/user-attachments/assets/ff84eee3-bc76-4721-a6d8-c482f62e8802" />
+<img width="3244" height="2162" alt="aprenderpro3" src="https://github.com/user-attachments/assets/c5a65a44-1063-4b38-b653-91f2b97646ae" />
+<img width="3226" height="2164" alt="aprenderpro2" src="https://github.com/user-attachments/assets/ef0922ce-1516-4ba6-8b56-8acd16a2671a" />
+<img width="3230" height="2068" alt="aprenderpro1" src="https://github.com/user-attachments/assets/0df89cc9-feed-446b-a269-6dfde604ff64" />
 # Proyecto Aprendepro - Proyecto Final Módulo 3
 
 Esto es mi proyecto final del Modulo 3 de Fundamentos de programación en Javascript de la clase. Lo que entendi fue que se pedía armar una aplicación de consola que juntara todos los conceptos que fuimos viendo, desde lo más básico (como las variables, y el console.log) hasta objetos con métodos, que es lo que estamos viendo mas en profundidas ahora. así con composición de funciones y métodos de arreglos como los de map, filter y forEach.
